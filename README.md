@@ -233,24 +233,3 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ---
 
-## 👤 Author
-
-**Arian Jr**  
-📧 [Contact Me](arianjafar59@gmail.com) • 🌐 [GitHub Profile](https://github.com/ArianJr)
-
----
-
-<p align="center">
-  Made with ❤️ by <a href="https://github.com/ArianJr" target="_blank">ArianJr</a>
-</p>
-
-<p align="center">
-  <sub>⭐ If you found this project useful, please consider giving it a star! It helps others discover it and supports my work.</sub>
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/ArianJr/power-output-prediction-ann?style=social" alt="GitHub stars">
-  <img src="https://img.shields.io/github/forks/ArianJr/power-output-prediction-ann?style=social" alt="GitHub forks">
-</p>
